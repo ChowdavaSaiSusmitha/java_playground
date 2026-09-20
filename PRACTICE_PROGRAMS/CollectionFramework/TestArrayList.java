@@ -2,7 +2,7 @@ package collectionspractice;
 
 import java.util.ArrayList;
 
-public class testlist {
+public class TestArrayList {
     public static void main(String[] args) {
         ArrayList fwl = new ArrayList();
         fwl.add(0, 134);
